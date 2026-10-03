@@ -40,7 +40,7 @@ hooked_shellexecutea(
 	_In_ INT showcmd)
 {
 	if (file && strstr(file, "vk.com/project414"))
-		file = "https://discord.com/users/1138590550635839488";
+		file = "https://discord.com/users/1138590550635839488"; // дада я чмо
 	return o_shellexecutea(hwnd, operation, file, parameters, directory, showcmd);
 }
 void CreateNetcHooks()
