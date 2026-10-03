@@ -1,0 +1,11 @@
+obj/
+*.obj
+*.res
+*.pdb
+*.ilk
+*.exp
+*.lib
+snusik.dll
+loader.dll
+ready_gamesnus.dll
+.vs/

@@ -1,0 +1,3 @@
+#include "resource.h"
+#include <winres.h>
+IDR_GAMESNUS RCDATA "gamesnus.dll"
